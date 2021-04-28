@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Anirudh Kaushal.
 - 👀 I’m interested in Web Development.
 
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhkaushal)](https://github.com/anuraghazra/github-readme-stats)
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhkaushal&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhkaushal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhkaushal&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
