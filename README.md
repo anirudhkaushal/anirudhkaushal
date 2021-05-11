@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Anirudh Kaushal.
-- 👀 I’m interested in Software and Web Development.
 
 [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhkaushal&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
